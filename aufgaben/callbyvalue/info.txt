@@ -1,0 +1,8 @@
+Aufgabe callbyvalue
+-------------------
+
+- Anhand der Memory-Adresse von a und b merkt man, dass der Wert bei der uebergabe an sub() kopiert wird
+
+- Im DDD kann man mithilfe des Backtraces feststellen, dass ein eigener stack-frame fuer die subroutine sub() gefuehrt wird.
+
+
